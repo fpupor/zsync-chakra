@@ -1,0 +1,23 @@
+{
+  "created": "2026-10-12T00:32:25.440600998-03:00",
+  "hostname": "chakra-Vostro-5470",
+  "folders": [
+    {
+      "id": "bfe92f4b7f31043d",
+      "label": "Documents",
+      "path": "/home/chakra/Documents"
+    },
+    {
+      "id": "d09f68475090e916",
+      "label": "Pictures",
+      "path": "/home/chakra/Pictures"
+    },
+    {
+      "id": "251347b7cdcd171c",
+      "label": "Music",
+      "path": "/home/chakra/Music"
+    }
+  ],
+  "peer_id": "",
+  "note": "full"
+}

@@ -1,0 +1,3 @@
+# Gerado pelo ZSync — metadados locais nunca conflitam no merge.
+/sync-ref.json merge=ours
+/peers.json merge=ours
