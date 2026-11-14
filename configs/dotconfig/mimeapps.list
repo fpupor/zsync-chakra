@@ -1,0 +1,6 @@
+[Added Associations]
+x-scheme-handler/sms=org.gnome.Shell.Extensions.ZorinConnect.desktop;
+x-scheme-handler/tel=org.gnome.Shell.Extensions.ZorinConnect.desktop;
+
+[Default Applications]
+x-scheme-handler/openclaw=openclaw-desktop-handler.desktop

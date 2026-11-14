@@ -1,0 +1,92 @@
+# Gerado pelo ZSync — não edite à mão.
+# Caches, árvores específicas da máquina e a própria config (passphrase).
+**/syncthing/
+**/syncthing
+**/zsync/
+**/zsync
+**/.cache/
+**/.cache
+**/.xauthority/
+**/.xauthority
+**/.ICEauthority/
+**/.ICEauthority
+**/.local/share/flatpak/
+**/.local/share/flatpak
+**/Cache/
+**/Cache
+**/Code Cache/
+**/Code Cache
+**/GPUCache/
+**/GPUCache
+**/DawnCache/
+**/DawnCache
+**/DawnGraphiteCache/
+**/DawnGraphiteCache
+**/DawnWebGPUCache/
+**/DawnWebGPUCache
+**/ShaderCache/
+**/ShaderCache
+**/GrShaderCache/
+**/GrShaderCache
+**/GraphiteDawnCache/
+**/GraphiteDawnCache
+**/CacheStorage/
+**/CacheStorage
+**/Service Worker/
+**/Service Worker
+**/IndexedDB/
+**/IndexedDB
+**/Local Storage/
+**/Local Storage
+**/Session Storage/
+**/Session Storage
+**/WebStorage/
+**/WebStorage
+**/blob_storage/
+**/blob_storage
+**/File System/
+**/File System
+**/Crashpad/
+**/Crashpad
+**/component_crx_cache/
+**/component_crx_cache
+**/extensions_crx_cache/
+**/extensions_crx_cache
+**/logs/
+**/logs
+**/log/
+**/log
+**/BraveSoftware/
+**/BraveSoftware
+**/google-chrome/
+**/google-chrome
+**/chromium/
+**/chromium
+**/mozilla/
+**/mozilla
+**/firefox/
+**/firefox
+**/opera/
+**/opera
+**/vivaldi/
+**/vivaldi
+**/microsoft-edge/
+**/microsoft-edge
+**/librewolf/
+**/librewolf
+**/waterfox/
+**/waterfox
+**/gh/
+**/gh
+**/glab/
+**/glab
+**/rclone/
+**/rclone
+**/gcloud/
+**/gcloud
+**/aws/
+**/aws
+**/docker/
+**/docker
+**/keyrings/
+**/keyrings

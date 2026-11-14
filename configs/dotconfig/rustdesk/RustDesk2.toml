@@ -1,0 +1,7 @@
+rendezvous_server = ''
+nat_type = 0
+serial = 0
+unlock_pin = ''
+
+[options]
+stop-service = 'Y'

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=CopyClip
+Comment=Keep and reuse your clipboard history
+Exec=/usr/bin/copyclip --background
+Icon=dev.walkercito.CopyClip
+Terminal=false
+X-GNOME-Autostart-enabled=true
