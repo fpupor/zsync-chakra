@@ -6,7 +6,21 @@
       "mac": "80:86:f2:f6:0e:78",
       "last_host": "10.0.2.106",
       "last_seen": "2026-10-13T23:29:02.509903033-03:00",
-      "reply_port": 8788
+      "reply_port": 8788,
+      "role": "",
+      "role_generation": 0,
+      "group": ""
+    },
+    {
+      "id": "",
+      "hostname": "beechakra-BT3-PRO",
+      "mac": "7c:83:34:b1:21:f9",
+      "last_host": "10.0.2.100",
+      "last_seen": "2026-11-15T17:06:02.849240991-03:00",
+      "reply_port": 8788,
+      "role": "primary",
+      "role_generation": 0,
+      "group": ""
     }
   ]
 }

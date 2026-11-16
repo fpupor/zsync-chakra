@@ -1,5 +1,5 @@
 {
-  "created": "2026-11-14T23:04:17.437833779-03:00",
+  "created": "2026-11-15T21:06:14.505765746-03:00",
   "hostname": "chakra-Vostro-5470",
   "folders": [
     {
@@ -16,6 +16,11 @@
       "id": "251347b7cdcd171c",
       "label": "Music",
       "path": "/home/chakra/Music"
+    },
+    {
+      "id": "a54946e5e9dd4de0",
+      "label": "appimages",
+      "path": "/home/chakra/.local/share/zsync/appimages"
     }
   ],
   "peer_id": "",
